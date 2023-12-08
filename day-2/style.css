@@ -26,7 +26,6 @@ body{
     background: #242628;
     overflow: hidden;
 }
-
 .avatar{
     position: relative;
     width: 120px;
@@ -94,7 +93,6 @@ body{
     cursor: pointer;
     transition: all ease 0.3s;
 }
-
 .contact:hover{
     background: var(--primary-color)
 }

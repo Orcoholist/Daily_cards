@@ -4,7 +4,7 @@ const prevBtn = document.querySelector(".btn-prev")
 const modal = document.querySelector(".modal")
 const images = document.querySelectorAll(".image")
 const imageModal = document.querySelector(".modal-image img")
-var currentImg
+let currentImg
 
 function toggleModal(){
     modal.classList.toggle("hide")
