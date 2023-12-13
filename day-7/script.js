@@ -1,7 +1,7 @@
 const ul = document.querySelector('ul'),
 	input = document.querySelector('input')
 
-let tags = ['nodejs', 'reactjs']
+let tags = ['nodejs', 'reactjs', 'js']
 
 createTag()
 
