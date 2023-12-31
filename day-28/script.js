@@ -15,4 +15,4 @@ setTimeout(() => {
         item.classList.remove('loading')
     })
 
-}, 4000)
+}, 3000)
