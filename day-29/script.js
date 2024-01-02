@@ -1,5 +1,5 @@
 const buttons = document.querySelectorAll('button')
-
+console.log(buttons);
 buttons.forEach((btn) => {
 	btn.addEventListener('click', (e) => {
 		const audio = e.target.querySelector('audio')
