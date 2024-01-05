@@ -1,4 +1,4 @@
-const func = require('./01-var-tasks') 
+const func = require('./01-var-solutions') 
 
 describe('Variable', () => {
   test('1. "age" should contain the correct typeof age', () => {

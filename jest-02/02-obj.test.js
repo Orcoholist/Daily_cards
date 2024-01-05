@@ -1,4 +1,4 @@
-const { person, addCityToPerson, removeAgeFromPerson, updatePersonName } = require('./02-obj-tasks');
+const { person, addCityToPerson, removeAgeFromPerson, updatePersonName } = require('./02-obj-solutions');
 
 describe('Object manipulation tests with functions', () => {
   test('Task 1: createPerson should create an object with specified properties', () => {
