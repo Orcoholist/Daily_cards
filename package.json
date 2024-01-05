@@ -1,0 +1,17 @@
+{
+  "name": "js-jest-tasks",
+  "version": "1.0.0",
+  "description": "js jest tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "tasks"
+  ],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
