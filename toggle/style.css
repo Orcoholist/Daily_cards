@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+     height: 100vh;
+     margin: 0 auto 0 auto;
+}
+
+.on{
+    background-image: url("./images/light_on.png");
+    background-repeat: no-repeat;
+    background-position: center;    
+}
+
+.off{
+    background-image: url('./images/light_off.png');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
